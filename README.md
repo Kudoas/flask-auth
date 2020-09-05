@@ -15,3 +15,7 @@
 
 - python 3.8.5
 - poetroy
+
+## reference
+
+- (Flask-JWT-Extended’s Documentation)[https://flask-jwt-extended.readthedocs.io/en/stable/]

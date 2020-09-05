@@ -18,4 +18,4 @@
 
 ## reference
 
-- (Flask-JWT-Extended’s Documentation)[https://flask-jwt-extended.readthedocs.io/en/stable/]
+- [Flask-JWT-Extended’s Documentation](https://flask-jwt-extended.readthedocs.io/en/stable/)

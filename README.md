@@ -1,9 +1,9 @@
 # flask-jwt-extendを使った認証機能の実装
 
-- signup時のpasswordのハッシュ化
+- frontendから受け取ったpasswordのハッシュ化
 - login時にjwtを発行し、セッション管理
-- user_formのエラーハンドリング
-- jwt tokenによるAPI endpointの保護
+- ユーザーフォームのエラーハンドリング
+- jwt tokenのバリデーションによるAPI endpointの保護
 
 ## library
 
